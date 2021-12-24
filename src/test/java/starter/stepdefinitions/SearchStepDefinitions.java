@@ -5,9 +5,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.ensure.Ensure;
-import starter.wiki.search.navigation.NavigateTo;
-import starter.wiki.search.LookForInformation;
-import starter.wiki.search.WikipediaArticle;
+import starter.n11.navigation.NavigateTo;
+import starter.search.LookForInformation;
+import starter.search.WikipediaArticle;
 
 public class SearchStepDefinitions {
 
